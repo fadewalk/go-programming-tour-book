@@ -2,7 +2,7 @@ package model
 
 import (
 	"fmt"
-	"github/jinzhu/gorm"
+	"github.com/jinzhu/gorm"
 
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 
